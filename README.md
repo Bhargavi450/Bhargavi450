@@ -23,7 +23,6 @@ My focus areas are **DSA, Java, Python, C**, and **Full Stack Development**, wit
 - 💻 Passionate about **Java, Python, C, C++, SQL, and Web Development**
 - 🚀 Currently mastering **Data Structures & Algorithms**
 - 🌱 Exploring **AI, Full Stack Development, and Real-World Projects**
-- 🎯 Goal: **Internships at Microsoft, Amazon & top tech companies**
 - 🔥 Active problem solver on **LeetCode** and **HackerRank**
 
 ---
