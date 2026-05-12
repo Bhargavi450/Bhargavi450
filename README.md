@@ -6,7 +6,6 @@
 <p><em>AI & Data Science · 3rd Year B.Tech · Aspiring Software Engineer</em></p>
 
 ![Student](https://img.shields.io/badge/3rd%20Year-B.Tech%20AI%20%26%20DS-7F77DD?style=flat-square&labelColor=EEEDFE&color=534AB7)
-![Goal](https://img.shields.io/badge/Goal-Microsoft%20%26%20Amazon-D85A30?style=flat-square&labelColor=FAECE7&color=993C1D)
 ![Status](https://img.shields.io/badge/Open%20To-Internships-1D9E75?style=flat-square&labelColor=E1F5EE&color=0F6E56)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bhargavi450&color=7F77DD&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
 
