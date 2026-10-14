@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **3rd year AI & Data Science student** who loves building intelligent, real-world solutions.
+I'm a passionate **Final year AI & Data Science student** who loves building intelligent, real-world solutions.
 My focus areas are **DSA, Java, Python, C**, and **Full Stack Development**, with a strong drive to crack internships at top tech companies    
 
 - 🎓 Pursuing B.Tech in **AI & Data Science**
