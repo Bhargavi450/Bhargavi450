@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bhargavi+%F0%9F%91%8B;AI+%26+Data+Science+Student;Java+Developer+%7C+DSA+Learner;Building+Real-World+AI+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 <h3>Bhargavi Risawade</h3>
-<p><em>AI & Data Science · 3rd Year B.Tech · Aspiring Software Engineer</em></p>
+<p><em>AI & Data Science · Final Year B.Tech · Aspiring Software Engineer</em></p>
 
 ![Student](https://img.shields.io/badge/3rd%20Year-B.Tech%20AI%20%26%20DS-7F77DD?style=flat-square&labelColor=EEEDFE&color=534AB7)
 ![Status](https://img.shields.io/badge/Open%20To-Internships-1D9E75?style=flat-square&labelColor=E1F5EE&color=0F6E56)
